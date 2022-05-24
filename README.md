@@ -4,4 +4,5 @@ Voltado para parte de lutas e ranking
 Futuramente pode ser desenvolvido uma parte para avalição de poomsae
 
 # 📲 Apks do projeto 
-<a href= "https://drive.google.com/file/d/1bu512do0SSRtnFYO84QdahDaVE9R3g0P/view?usp=sharing">Baixe e teste o protótipo! </a>
+<a href= "https://drive.google.com/drive/folders/1vX2MSaX5ZZYIkcz6osmac9kgZp4bkfbS?usp=sharing">Baixe e teste o protótipo! </a>
+
